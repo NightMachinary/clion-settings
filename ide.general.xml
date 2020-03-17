@@ -1,5 +1,6 @@
 <application>
   <component name="GeneralSettings">
+    <option name="defaultProjectDirectory" value="$USER_HOME$/Base/_Code/Rust" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="showTipsOnStartup" value="false" />
   </component>
